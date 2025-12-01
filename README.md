@@ -5,7 +5,7 @@ This repository contains materials researchers may find useful when choosing or 
 
 I am currently in the process of consolidating my methods for CNS cell segmentation/measurement, so WATCH THIS SPACE!
 
-However, if you do have pressing questions, contact do contact me. I a more than happy to point you in the right diection of Open Source methods currently avaliable:
+However, if you do have  questions, I a more than happy to point you in the right diection of Open Source methods currently avaliable:
 gabriella.blissett@uon.edu.au
 
 Or follow me on LinkedIN
