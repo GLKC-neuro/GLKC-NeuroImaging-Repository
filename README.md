@@ -3,7 +3,9 @@
 GLKC NeuroImaging by Gabriella Blissett (PhD Student, Newcastle Australia)
 This repository contains materials researchers may find useful when choosing or training a method to analyse CNS cells, including microglia, astrocytes, oligodendrocytes, and/or neurons. 
 
-Please contact me if you have questions:
+I am currently in the process of consolidating my methods for CNS cell segmentation/measurement, so WATCH THIS SPACE!
+
+However, if you do have pressing questions, contact do contact me. I a more than happy to point you in the right diection of Open Source methods currently avaliable:
 gabriella.blissett@uon.edu.au
 
 Or follow me on LinkedIN
