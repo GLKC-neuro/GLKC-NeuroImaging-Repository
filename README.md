@@ -1,6 +1,6 @@
 # GLKC-NeuroImaging-Repository
 
-GLKC NeuroImaging by Gabriella Blissett (PhD Student, Newcastle Australia)
+GLKC NeuroImaging by Gabriella Blissett (PhD Student, Newcastle Australia).
 This repository contains materials researchers may find useful when choosing or training a method to analyse CNS cells, including microglia, astrocytes, oligodendrocytes, and/or neurons. 
 
 I am currently in the process of consolidating my methods for CNS cell segmentation/measurement, so WATCH THIS SPACE!
